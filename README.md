@@ -31,3 +31,19 @@ Analyze sales, profit, and discount patterns to identify actionable business ins
 ## 📂 Project Structure
 ## 👤 Author
 Tamam Aldmani
+superstore-sales-analysis/
+│
+├── data/
+│   ├── superstore.csv
+│   └── superstore.db
+├── notebooks/
+│   ├── eda_superstore.ipynb
+│   └── sql_practice.ipynb
+└── README.md
+## 🗄️ SQL Analysis
+In addition to the Python-based EDA, this project includes a full SQL portfolio (15 analytical queries) built on the same dataset using SQLite, covering:
+- Filtering & Aggregation (SELECT, WHERE, GROUP BY, HAVING)
+- Subqueries & CTEs
+- Window Functions (RANK, Running Totals)
+
+📓 Notebook: `notebooks/sql_practice.ipynb`
