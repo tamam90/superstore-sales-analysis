@@ -1,0 +1,48 @@
+Power BI Desktop 
+Total Sales by Category 
+0M 
+5M 
+Category 
+Sum of Sales 
+Technology 
+Furniture
+Office Supplies 
+Sum of Profit by Category 
+0.0M 0.5M 
+Sum of Profit 
+Category 
+Technolo… 
+Office Su… 
+Furniture 
+Region 
+. Africa 
+. Canada 
+. Caribbean 
+. Central 
+. Central Asia 
+. East 
+. EMEA 
+. North 
+. North Asia 
+. Oceania 
+. South 
+. Southeast Asia 
+. West 
+Sum of Sales 
+13M 
+Sum of Profit 
+1.47M 
+Count of Order.ID 
+25.035K 
+Superstore Sales Dashboard 
+Sum of Sales by Year 
+2M 
+3M 
+4M 
+Year 
+Sum of Sales 
+2011 2012 2013 2014 
+Sum of Sales by Country 
+© 22002266 TToommTToomm,, © 22002266 MMiiccrroossoofftt 
+CCoorrppoorraattiioonn,, © OOppeennSSttrreeeettMMaapp
+
